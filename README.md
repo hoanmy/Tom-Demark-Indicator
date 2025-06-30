@@ -20,3 +20,6 @@ current price information before running.  I recommend sourcing the data from [h
 
 To use this software, place all files in this repository into a common directory, set it
 as your current working directory, then launch TD_plotter.py.
+
+showkami:
+https://github.com/showkami/tomdemark
